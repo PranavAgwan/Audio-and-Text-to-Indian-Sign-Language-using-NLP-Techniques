@@ -106,6 +106,8 @@ Below are the visuals and demo illustrating the working of our **Audio and Text 
 Watch the live demonstration of our system in action:  
 [🎬 Click here to view the Demo Video](media/demo_video.mp4)
 
+The video cannot be played directly from the system, so you can download the same on your system.
+
 ---
 
 ## 🧩 Conclusion
