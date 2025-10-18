@@ -111,11 +111,9 @@ The video cannot be played directly from the system, so you can download the sam
 ---
 
 ## 🧩 Conclusion
-We developed a **web-based ISL converter** capable of transforming **audio and text inputs into 3D sign language animations** using NLP techniques.  
-The system demonstrates how linguistic processing can enhance accessibility tools for differently-abled individuals.
+We developed a **web-based ISL converter** capable of transforming **audio and text inputs into 3D sign language animations** using NLP techniques. The system demonstrates how linguistic processing can enhance accessibility tools for differently-abled individuals.
 
-It can be extended for **real-time translation**, **educational platforms**, and **healthcare communication tools**, promoting inclusivity for the hearing-impaired community.  
-The integration of **AI and 3D animation** represents a powerful step forward in the field of **assistive technology**.
+It can be extended for **real-time translation**, **educational platforms**, and **healthcare communication tools**, promoting inclusivity for the hearing-impaired community. The integration of **AI and 3D animation** represents a powerful step forward in the field of **assistive technology**.
 
 ---
 
@@ -134,4 +132,11 @@ The integration of **AI and 3D animation** represents a powerful step forward in
 
 ---
 
+## 👨‍💻 Author
+
+👤 Name : **Pranav Agwan** 
+
+📧 Mail : agwanpranav123@gmail.com 
+
+🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
 
