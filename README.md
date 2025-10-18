@@ -77,34 +77,34 @@ The **3D animations** were designed and rendered using **Blender**, ensuring nat
 
 ## 📸 Results
 
-Below are screenshots of the implemented web application and output examples:
-
-### 🌐 Website Interface
-**Main Website Page:**
-![Website Main Page](results/w1.png)
-**Converter Page:**
-![Converter Page](results/w2.png)
-**Input Section:**
-![Input Section](results/w3.png)
-**Output Example:**
-![Website Output](results/w4.png)
+Below are the visuals and demo illustrating the working of our **Audio and Text to Indian Sign Language Converter** web application.
 
 ---
 
-### 🧏‍♀️ Indian Sign Language Animations
+### 🌐 Website Interface
 
-**Audio and Text Input Page:**
-![Audio and Text Input](results/bt.png)
+**Main Page of the Website:**
+![Main Page](media/main_page.png)
 
-**Example 1 — Word “Beautiful”:**
-![Beautiful Word Animation](results/bty.png)
+**Converter Page of the Model:**
+![Converter Page](media/converter_page.png)
 
-**Example 2 — Sentence “What is your name”:**
-![Sentence Animation](results/btn.png)
+---
 
-**Example 3 — Word “Pizza” (Letter-wise Animation):**
-Since no direct sign exists for “Pizza,” the system converts it to individual characters — P, I, Z, Z, A.
-![Pizza Animation](results/bc.png)
+### 🧏‍♀️ Example Outputs
+
+**Example 1 — Sentence: “I am happy”**
+![I am Happy Example](media/i_am_happy.png)
+
+**Example 2 — Sentence: “What is your age”**
+![What is Your Age Example](media/what_is_your_age.png)
+
+---
+
+### 🎥 Demo Video
+
+Watch the live demonstration of our system in action:  
+[🎬 Click here to view the Demo Video](media/demo_video.mp4)
 
 ---
 
