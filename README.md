@@ -19,6 +19,11 @@ This project integrates these technologies to convert **audio and text inputs in
 
 Our goal is to create a **unified platform** where users can seamlessly convert spoken or written input into **3D ISL animations**, thus bridging communication gaps and promoting inclusivity.
 
+To run the project, first clone the repository into your system, then run the following command:
+```bash
+python manage.py runserver
+```
+
 ---
 
 ## ⚙️ Methodology
